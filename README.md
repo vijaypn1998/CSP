@@ -1,5 +1,4 @@
 # CSP
-Project Title
 
 CSP Encoding Problem
 Description
